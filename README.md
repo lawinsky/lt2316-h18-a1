@@ -7,4 +7,4 @@ The included dataset comes from the [UCI Machine Learning Repository](https://ar
 
 ## Your notes
 
-Implemented a simple pre-pruning
+Implemented reduced error pre-pruning
